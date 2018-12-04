@@ -1,6 +1,6 @@
 # Bootcamp NodeJS Desafio 1
 
-Configure uma aplicação utilizando **ExpressJS, Nunjucks, EditorConfig e ESLint**.
+Aplicação utilizando **NodeJS, ExpressJS, Nunjucks, EditorConfig e ESLint**.
 
 ## Rotas
 
